@@ -7,7 +7,7 @@ import { Countdown } from './Countdown';
 
 ReactDOM.render(
 	<Countdown 
-		timeTillDate="08 12 2020, 6:00 am" 
+		timeTillDate="07 08 2025, 00:00 am" 
 		timeFormat="MM DD YYYY, h:mm a" 
 	/>, 
 	document.getElementById('app')
