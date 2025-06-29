@@ -1,16 +1,13 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import { Countdown } from './Countdown';
+import React from "react";
+
+import "./App.css";
+import { Countdown } from "./Countdown";
 
 function App() {
-console.log("hi");
 
   return (
     <div className="App">
-
-
-<Countdown> </Countdown>
+      <Countdown> </Countdown>
     </div>
   );
 }
